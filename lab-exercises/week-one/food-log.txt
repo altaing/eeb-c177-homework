@@ -2,3 +2,5 @@ monday 1/6/20:
  - lunch: hotpockets
  - dinner: cereal and pizza rolls
 
+tuesday 1/7/20
+ - lunch: panda express
