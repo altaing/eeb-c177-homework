@@ -4,3 +4,4 @@ monday 1/6/20:
 
 tuesday 1/7/20
  - lunch: panda express
+ - dinner: carls jr
