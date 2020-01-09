@@ -8,3 +8,6 @@ tuesday 1/7/20
 
 wednesday 1/8/20
  - lunch: portos
+ - dinner: dumplings
+
+
