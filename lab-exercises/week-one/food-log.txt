@@ -13,3 +13,6 @@ wednesday 1/8/20
 thursday 1/9/20
  - lunch: panda express
  - dinner: hotpockets
+
+friday 1/10/20
+ - lunch: none
