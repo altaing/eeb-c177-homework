@@ -16,3 +16,5 @@ thursday 1/9/20
 
 friday 1/10/20
  - lunch: none
+ - dinner: in and out
+
