@@ -1,0 +1,15 @@
+1. \.
+2. [cmf]an
+3. [^b]og
+4. [A-C][n-p][a-c]
+5. waz{2,}up
+6. a{2,}b*c+
+7. \d* files? found\?
+8.  *abc
+9. [ \t]abc
+10. ^Mission
+11. ^(file.+)\.pdf$
+12. (\w+ (\d+))
+13. (\d+)x(\d+)
+14. I love (cats|dogs)
+15. \*
