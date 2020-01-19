@@ -1,4 +1,5 @@
 cd ~/Developers/repos/eeb-c177-homework/CSB/unix/sandbox/
 wget -c http://dev.shawntylerschwartz.com/docs/paragraphs.txt
 cd ~/Developers/repos/eeb-c177-homework/class-exercises/
+mkdir homework-two
 
