@@ -1,0 +1,3 @@
+  913  touch bodym.csv
+  914  tail -n +2 ~/Developer/repos/eeb-c177-homework/class-exercises/CSB/unix/data/Pacifici2013_data.csv | cut -d ";" -f 2-6 | tr ";" " " | sort -r -n -k 6 > bodym.csv
+
