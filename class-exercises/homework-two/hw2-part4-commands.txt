@@ -1,0 +1,21 @@
+  889  wget -c http://dev.shawntylerschwartz.com/docs/fish_species.txt
+  890  git add -A
+  891  git commit -m "fish"
+  892  git push origin master
+  893  touch fishes-sort.txt fishes-rev-sort.txt fishes-unqiue.txt
+  894  ls
+  895  sort
+  896  sort fish_species.txt > fishes-sort.txt
+  897  head fihes-sort.txt
+  898  head fishes-sort.txt
+  899  rev sort
+  900  rev-sort
+  901  revsort
+  902  sort -r
+  903  sort -r fish_species.txt > fishes-rev-sort.txt
+  904  head fishes-rev-sort.txt
+  905  uniq fish_species.txt > fishes-unique.txt
+  906  he fishes-unique.txt
+  907  head fishes-unique.txt
+  908  history
+
