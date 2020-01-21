@@ -1,5 +1,17 @@
-cd ~/Developers/repos/eeb-c177-homework/CSB/unix/sandbox/
+cd ~/Developer/repos/eeb-c177-homework/CSB/unix/sandbox/
 wget -c http://dev.shawntylerschwartz.com/docs/paragraphs.txt
-cd ~/Developers/repos/eeb-c177-homework/class-exercises/
+cd ~/Developer/repos/eeb-c177-homework/class-exercises/
 mkdir homework-two
+mv ~/Developer/repos/eeb-c177-homework/CSB/unix/sandbox/paragraphs.txt ~/Developer/repos/eeb-c177-homework/class-exercises/homework-two
+git add -A
+git commit -m "moved paragraphs.txt"
+git push origin master
+cd ..
+cd ..
+cd homework-two
+mv ~/Developer/repos/eeb-c177-homework/class-exercises/homework-two/paragraphs.txt  ~/Developer/repos/eeb-c177-homework/class-exercises/homework-two/easy-question.txt
+git add -A
+git commit -m "renamed paragraphs.txt
+git push origin master
+touch hw2-part1-commands.txt
 
