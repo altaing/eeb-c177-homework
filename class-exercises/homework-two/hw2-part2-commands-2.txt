@@ -1,0 +1,2 @@
+  774  head -25 Pacifici2013_data.csv | wc -w
+  775  history 2 > ~/Developer/repos/eeb-c177-homework/class-exercises/homework-two/hw2-part2-commands-2.txt
