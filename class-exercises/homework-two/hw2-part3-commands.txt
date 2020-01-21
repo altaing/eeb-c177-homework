@@ -1,18 +1,2 @@
-  867  head -n 1 Pacifici2013_data.csv | cut -d ";" -f 10
-  868  head Pacifici2013_data.csv
-  869  head -n 10 Pacifici2013_data.csv | cut -d ";" -f 10
-  870  head Pacifici2013_data.csv
-  871  tail -n 5 Pacifici2013_data.csv
-  872  tail +1 Pacifici2013_data.csv
-  873  cut -d ";" -f 10 Pacifici2013_data.csv | tail -n +1
-  874* head -n 10 
-  875  head -n 10 cut -d ";" -f 10 Pacifici2013_data.csv | tail -n +1
-  876  head -n 10 Pacifici2013_data.csv
-  877  cd ..
-  878  cd homework-two
-  879  nano hw2-part3-commands.txt
-  880  ls
-  881  nano hw2-part3-commands.txt
-  882  rm hw2-part3-commands.txt
-  883  nano Pacifici-ten.txt
-  884  history
+  958  head -10 ../class-exercises/CSB/unix/data/Pacifici2013_data.csv | cut -d ";" -f 1-4 | tail -n +2
+
