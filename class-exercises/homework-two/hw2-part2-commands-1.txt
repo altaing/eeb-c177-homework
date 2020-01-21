@@ -1,0 +1,38 @@
+  704  head -25 Pacifici2013_data.csv
+  705  cd ..
+  706  ls
+  707  cd homework0two
+  708  cd homework-two
+  709  ls
+  710  nano Pacifici-25lines.txt
+  711  rf Pacifici-25lines.txt
+  712  rm Pacifici-25lines.txt
+  713  ls
+  714  tocuh Pacifici-25lines.txt
+  715  touch Pacifici-25lines.txt
+  716  nano Pacifici-25lines.txt
+  717  cd ..
+  718  ls
+  719  ls homework-two
+  720  cd CSB
+  721  cd unix
+  722  cd data
+  723  ls
+  724  head -25 Pacifici2013_data.csv
+  725  cd ..
+  726  cd homewor-two
+  727  cd homework-two
+  728  wc
+  729  ls
+  730  wc Pacifici-25lines.txt
+  731  nano Pacifici-25wordcount.txt
+  732  fg
+  733  ls
+  734  nano hw2-part2-commands-1.txt
+  735  ls
+  736  history
+  737  ls
+  738  touch hw2-part2-commands-1.txt
+  739  ls
+  740  history
+
